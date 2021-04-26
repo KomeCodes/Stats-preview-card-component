@@ -12,6 +12,9 @@ body{
     background-color: hsl(244, 38%, 16%);
     border-radius: 5px;
 }
+header{
+    background-color: rgb(115, 46, 158);
+}
 .header-img{
     display: block;
     max-width: 100%;
