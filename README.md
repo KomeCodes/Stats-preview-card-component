@@ -1,5 +1,6 @@
 # Frontend Mentor - Stats preview card component solution
 
+<<<<<<< HEAD
 This is a solution to the [Stats preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/stats-preview-card-component-8JqbgoU62). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
@@ -52,4 +53,3 @@ Work on improving my CSS skill and continue learning Javascript
 ## Acknowledgments
 
 Thanks to @pikamart on Frontend Mentor who helped me to get the color overlay right.
-
